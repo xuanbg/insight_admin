@@ -6,7 +6,7 @@ spring:
   boot:
     admin:
       client:
-        url: http://47.99.63.139:8917
+        url: http://172.16.138.245:8917
 management:
   endpoints:
     web:
