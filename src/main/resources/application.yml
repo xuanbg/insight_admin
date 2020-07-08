@@ -34,4 +34,4 @@ logging:
   level:
     com.insight: info
   pattern:
-    console: '%d{yyyy-MM-dd HH:mm:ss.SSS} config [%-5level] %logger{35} : %msg%n'
+    console: '%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5level] %logger{35}: %msg%n'
